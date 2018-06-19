@@ -56,7 +56,7 @@ namespace User_1
                 status.Text = "ONLINE";
                 status.ForeColor = System.Drawing.Color.FromArgb(87, 238, 121);
                 Random rnd = new Random();
-                int ipAddr = rnd.Next(2, 100);
+                int ipAddr = rnd.Next(1, 100);
                 string ipStr = "127.0.0." + ipAddr.ToString();
                 clientSocket.Connect(ipStr, 8888);
                 serverStream = clientSocket.GetStream();

@@ -5,3 +5,10 @@ C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\S
 C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Socket Comunication - Server 0\ConsoleApp1\obj\Debug\iSocketServer.csproj.CoreCompileInputs.cache
 C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Socket Comunication - Server 0\ConsoleApp1\obj\Debug\iSoquet - Server.exe
 C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Socket Comunication - Server 0\ConsoleApp1\obj\Debug\iSoquet - Server.pdb
+C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Git\iSocket\Socket Comunication - Server\ConsoleApp1\bin\Debug\iSoquet - Server.exe.config
+C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Git\iSocket\Socket Comunication - Server\ConsoleApp1\bin\Debug\iSoquet - Server.exe
+C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Git\iSocket\Socket Comunication - Server\ConsoleApp1\bin\Debug\iSoquet - Server.pdb
+C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Git\iSocket\Socket Comunication - Server\ConsoleApp1\obj\Debug\iSocketServer.csprojAssemblyReference.cache
+C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Git\iSocket\Socket Comunication - Server\ConsoleApp1\obj\Debug\iSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Git\iSocket\Socket Comunication - Server\ConsoleApp1\obj\Debug\iSoquet - Server.exe
+C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Git\iSocket\Socket Comunication - Server\ConsoleApp1\obj\Debug\iSoquet - Server.pdb

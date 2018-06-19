@@ -7,7 +7,7 @@
     <ProjectGuid>{D8419F9E-064B-41E3-8E9A-7ED781C11CFB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>User_1</RootNamespace>
-    <AssemblyName>User 1</AssemblyName>
+    <AssemblyName>iSocket - Client</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

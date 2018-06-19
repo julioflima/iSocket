@@ -8,3 +8,13 @@ C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\S
 C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Socket Comunication\User 1\obj\Debug\User 1.csproj.CoreCompileInputs.cache
 C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Socket Comunication\User 1\obj\Debug\User 1.exe
 C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Socket Comunication\User 1\obj\Debug\User 1.pdb
+C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Git\iSocket\Socket Comunication\User 1\bin\Debug\iSocket - Client.exe.config
+C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Git\iSocket\Socket Comunication\User 1\bin\Debug\iSocket - Client.exe
+C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Git\iSocket\Socket Comunication\User 1\bin\Debug\iSocket - Client.pdb
+C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Git\iSocket\Socket Comunication\User 1\obj\Debug\User 1.csprojAssemblyReference.cache
+C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Git\iSocket\Socket Comunication\User 1\obj\Debug\User_1.Form1.resources
+C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Git\iSocket\Socket Comunication\User 1\obj\Debug\User_1.Properties.Resources.resources
+C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Git\iSocket\Socket Comunication\User 1\obj\Debug\User 1.csproj.GenerateResource.cache
+C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Git\iSocket\Socket Comunication\User 1\obj\Debug\User 1.csproj.CoreCompileInputs.cache
+C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Git\iSocket\Socket Comunication\User 1\obj\Debug\iSocket - Client.exe
+C:\Users\Julio Lima\Dropbox\Melisse_Julio\Redes de Computadores\Trabalho Final\Git\iSocket\Socket Comunication\User 1\obj\Debug\iSocket - Client.pdb
